@@ -1,0 +1,1166 @@
+[
+  {
+    "url": "https://zap-hosting.com/en/vps-hosting/",
+    "flags": [
+      "STRIPE_PK",
+      "STRIPE_EL",
+      "3DS",
+      "STRIPE_JS"
+    ],
+    "pk": "pk_live_51C9rT6ICdL2Olgj5ksBBTT3uaowwqBkj4tZADDIhY",
+    "score": 9
+  },
+  {
+    "url": "https://www.startupdaily.net/topic/afterpay-partners-trademe-rollout-new-zealand/",
+    "flags": [
+      "STRIPE_EL",
+      "BT_REF",
+      "3DS",
+      "STRIPE_JS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 8
+  },
+  {
+    "url": "https://rdpware.com/buy-usa-rdp/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "STRIPE_EL",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 7
+  },
+  {
+    "url": "https://listingprowp.com/downloads/paystack/",
+    "flags": [
+      "DATA_TOKEN",
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 7
+  },
+  {
+    "url": "https://wholesalesuiteplugin.com/woocommerce-wholesale-payments/",
+    "flags": [
+      "DATA_TOKEN",
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 7
+  },
+  {
+    "url": "https://orionesolutions.com/klarna-business-model/",
+    "flags": [
+      "DATA_TOKEN",
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 7
+  },
+  {
+    "url": "https://cryptoemporium.com/",
+    "flags": [
+      "DATA_TOKEN",
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 7
+  },
+  {
+    "url": "https://thefinrate.com/mercadopago.com.ar/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "BT_REF",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 7
+  },
+  {
+    "url": "https://shiphype.com/3pl-for-stripe/",
+    "flags": [
+      "DATA_TOKEN",
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 7
+  },
+  {
+    "url": "https://easydigitaldownloads.com/downloads/braintree-gateway/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://funnelkit.com/woocommerce-google-pay/",
+    "flags": [
+      "DATA_TOKEN",
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://portal.chartvps.com/order.php?m=OneStepOrder&gid=vpsplus",
+    "flags": [
+      "STRIPE_PK",
+      "STRIPE_JS"
+    ],
+    "pk": "pk_live_CumexPm8VytoTYzvq2PooHnk006YjprRgo",
+    "score": 6
+  },
+  {
+    "url": "https://liteserver.nl/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://blacklabel.hosting/product/managed-aws-linux-lightsail-vps-hosting/",
+    "flags": [
+      "STRIPE_PK",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": "pk_live_51Aw5SRAAYSOCs0T8qQk6wWWuqF3x6HxCBbIfdePRV",
+    "score": 6
+  },
+  {
+    "url": "https://wp101.com/best-wordpress-payment-plugins/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://craftcms.com/knowledge-base/custom-stripe-commerce-checkout",
+    "flags": [
+      "STRIPE_EL",
+      "3DS",
+      "STRIPE_JS"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://websavers.ca/canadian-vps-hosting",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "STRIPE_EL"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://smarthost.ie/vps/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://workdo.io/documents/2checkout-payment-gateway-in-bookinggo-saas/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://bryanheadrick.com/product/woocommerce-purchase-order-payment-gateway/",
+    "flags": [
+      "STRIPE_PK",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": "pk_live_4TJTZdRLzRgSTxc81U0jJELe",
+    "score": 6
+  },
+  {
+    "url": "https://paymentplugins.com/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://my24hrshop.com/product/rdp-server/",
+    "flags": [
+      "DATA_TOKEN",
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://themeraja.com/shop/learnpress-razorpay-payment-gpl/",
+    "flags": [
+      "WOO",
+      "STRIPE_EL",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://www.beld.com/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 6
+  },
+  {
+    "url": "https://www.rockitcoin.com/buy-with-card/",
+    "flags": [
+      "STRIPE_PK",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": "pk_live_waStCGhY5BARW6xazlY0vMZf62x7W96U",
+    "score": 6
+  },
+  {
+    "url": "https://whop.com/cloud-vps-cloud-hosting/",
+    "flags": [
+      "STRIPE_PK",
+      "STRIPE_EL",
+      "3DS"
+    ],
+    "pk": "pk_live_An9JqAUvxfDwIaRwDpuL9hVS",
+    "score": 6
+  },
+  {
+    "url": "https://tezrdp.com/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://www.digitaltransactions.net/affirm-partners-with-stripe-and-google-pay-zip-is-gamestops-exclusive-bnpl-provider/",
+    "flags": [
+      "DATA_TOKEN",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://acowebs.com/woocommerce-deposits-partial-payments/",
+    "flags": [
+      "DATA_TOKEN",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://globalfintechseries.com/finance/venmo-unleashes-next-phase-of-commerce-with-the-venmo-debit-card-and-venmo-checkout/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://wpbookster.com/best-deposits-partial-payments-plugins/",
+    "flags": [
+      "WOO",
+      "STRIPE_EL",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://wpdesk.net/products/active-payments-woocommerce/",
+    "flags": [
+      "STRIPE_PK",
+      "WOO"
+    ],
+    "pk": "pk_live_5188G8DArlf1KxGorIEdtFTrjkfrEWenXCpROPgVYc",
+    "score": 5
+  },
+  {
+    "url": "https://mukhost.com/vps-mexico/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://tosetec.com/przelewy24-w-sklepie-internetowym/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://leasepacket.com/buy-rdp/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://www.riverboundsports.com/paddleboards/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://rdpbuyindia.com/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://marketplace.webkul.com/wordpress-woocommerce-marketplace-split-order/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://www.expertadvisordownload.com/en/%E2%98%81%EF%B8%8F-vps-servers-for-algorithmic-trading-what-are-they-how-do-they-work-and-why-are-they-key-in-metatrader/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://www.aspgulf.com/managed-woocommerce-hosting-vps/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://polarityhosting.com/amazon-windows-vps/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://www.isitwp.com/hosting-reviews/woocommerce/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://quadlayers.com/woocommerce-checkout-plugins/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://themefic.com/custom-checkout-fields-2checkout-support/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://rdpaura.com/canada-rdp/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://gplfair.com/shop/woocommerce-new-zealand-post/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://www.doctorofcredit.com/paypal-checkout-5-back-on-walmart-best-buy/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://dropshiplaunchpad.com/shopify-payments-countries/",
+    "flags": [
+      "WOO",
+      "STRIPE_EL",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://swedendedicated.com/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "3DS"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://chargebacks911.com/amazon-venmo-split/",
+    "flags": [
+      "DATA_TOKEN",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://codeless.co/google-cloud-vps-pricing/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://blackprojectsup.com/shop/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://gitakart.in/what-is-razorpay-and-how-does-it-work/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://infinitydomainhosting.com/kb/amazon-web-services-vps/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://bebiggy.com/websites-for-sale/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://workandseo.com/business-for-sale/woocommerce-stores/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://ebizcharge.com/integrations/ecommerce/woocommerce/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://www.loja5.com.br/modulo-prestashop-pagamento-rede-api-cartao-credito-debito-pix-p559c269c281.html",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "3DS"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://rocketfuel.inc/accepting-in-store-crypto-payments-with-pos-integration/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://todaytesting.com/thrivecart-pricing/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://n6cloud.com/vps-hosting/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://webyne.com/vps-server-india/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://webdedis.com/cheap-vps-hosting/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://www.truehost.cloud/vps-servers-in-nigeria/",
+    "flags": [
+      "WPFORMS",
+      "WOO",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 5
+  },
+  {
+    "url": "https://www.finalwebsites.nl/betaalmogelijkheden-webshops/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://alexhost.com/vps/windows-vps/windows-vps-remote-desktop/",
+    "flags": [
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.orderdesk.com/integrations/braintree/",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.thesmbguide.com/braintree-payments-reviews",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "3DS"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://ppcmate.com/we-have-partnered-with-fastspring/",
+    "flags": [
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.merchantmaverick.com/what-is-woo-commerce-payments/",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.revolutionrace.com/customer-service/payment-delivery",
+    "flags": [
+      "STRIPE_PK",
+      "3DS"
+    ],
+    "pk": "pk_live_j8xvD1Cb360ETK9v4ydR55un",
+    "score": 4
+  },
+  {
+    "url": "https://www.novalnet.de/payment-lexikon/checkout",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://homefitness.be/",
+    "flags": [
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://smmhigh.com/product/buy-google-play-store-reviews/",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.space-hosting.net/dedicated-servers/buy-server-with-crypto/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://vpsprofi.com/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://donweb.com/es-ve/hosting-cloud-servers-vps",
+    "flags": [
+      "DATA_TOKEN",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://flutterwave-website-v3-pilot.f4b-flutterwave.com/us",
+    "flags": [
+      "DATA_TOKEN",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://wpshout.com/best-woocommerce-hosting/",
+    "flags": [
+      "DATA_TOKEN",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://getfreerdpserver.com/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://storesautomation.com/what-is-shopify-payments/",
+    "flags": [
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.appypieautomate.ai/integrate/apps/etsy/integrations/venmo",
+    "flags": [
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://coindoo.com/coinbase-business-account/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.daltonsbusiness.com/listing-businesses-for-sale-in-braintree/",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://seahawkmedia.com/woocommerce/payment-gateways/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.webpopdesign.com/woocommerce-payment-plugins-uk/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://hostarmada.com/woocommerce-hosting/",
+    "flags": [
+      "DATA_TOKEN",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://opmc.co.nz/product/payment-express-dps-pxfusion-payment-gateway-for-woocommerce/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.misupportit.dk/en/vps-hosting/",
+    "flags": [
+      "WOO",
+      "STRIPE_EL"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://ntup.net/vps-poland/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.morningstar.com/stocks/shopify-after-big-rally-fade-is-stock-buy-or-sell",
+    "flags": [
+      "STRIPE_PK",
+      "3DS"
+    ],
+    "pk": "pk_live_51KdL4bHHHT1qJ1rw8R4xv8wxRv4m1dLbQNschImeK",
+    "score": 4
+  },
+  {
+    "url": "https://braintreebd.com/online-shop/",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://packpaddle.com/",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://sociallysanne.nl/online-ondernemen/betaalpagina-online-producten/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.chequpi.com/",
+    "flags": [
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://shop.wanderlust-webdesign.com/shop/mercado-pago-marketplace-woocommerce/",
+    "flags": [
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://pvashopusa.com/product/buy-verified-venmo-accounts/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.apnnews.com/bluehost-partners-with-razorpay-to-expand-its-online-store-solution-with-integrated-payments-for-india/",
+    "flags": [
+      "DATA_TOKEN",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://nulledgpl.com/downloads/wordpress-plugins/wpsmartpay/paddle-checkout-for-woocommerce-nulled/",
+    "flags": [
+      "DATA_TOKEN",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://mulchandloam.com/braintree-ma/",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.popularfintech.com/p/the-acquisitions-that-paypal-management",
+    "flags": [
+      "STRIPE_PK",
+      "BT_REF"
+    ],
+    "pk": "pk_live_51IekcQKHPFAlBzyyGNBguT5BEI7NEBqrTxJhsYN1F",
+    "score": 4
+  },
+  {
+    "url": "https://www.firstcashsolution.de/en/our-solutions/digital-payment/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://realopen.com/",
+    "flags": [
+      "STRIPE_PK",
+      "3DS"
+    ],
+    "pk": "pk_live_Y2xlcmsucmVhbG9wZW4uY29tJA",
+    "score": 4
+  },
+  {
+    "url": "https://www.ewaycorp.com/things-to-know-about-bigcommerce-checkout/",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://centraldovarejo.com.br/pix-parcelado-no-e-commerce-como-se-preparar-para-aceitar-a-forma-de-pagamento/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://bigcommerce.cedcommerce.com/",
+    "flags": [
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://tefway.com.br/pix/",
+    "flags": [
+      "WOO",
+      "STRIPE_EL"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://sherocommerce.com/bigcommerce-pricing-guide/",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://cash2bitcoin.com/buy-bitcoin-online/",
+    "flags": [
+      "STRIPE_PK",
+      "WP_AJAX"
+    ],
+    "pk": "pk_live_Wc6PehvZgdSRFaLPBTTJmQH3gM2rr4sE",
+    "score": 4
+  },
+  {
+    "url": "https://larryludwig.com/thrivecart-vs-samcart/",
+    "flags": [
+      "WOO",
+      "BT_REF",
+      "3DS"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://www.rebid.co/add-to-cart/",
+    "flags": [
+      "WPFORMS",
+      "WOO"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://shopassociation.org/membership/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://shop.hersheys.com/",
+    "flags": [
+      "STRIPE_PK",
+      "3DS"
+    ],
+    "pk": "pk_live_51Q4myzLXSMPrFU0zk452OTim0CjkkSQEzphLsRGy9",
+    "score": 4
+  },
+  {
+    "url": "https://www.seoant.com/3-ways-to-add-an-add-to-cart-button-on-your-shopify-store/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://italymarketonline.com/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://swissmade.direct",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  },
+  {
+    "url": "https://rdpindonesia.com/",
+    "flags": [
+      "WOO",
+      "3DS",
+      "WP_AJAX"
+    ],
+    "pk": null,
+    "score": 4
+  }
+]
