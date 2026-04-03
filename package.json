@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "hcaptcha-solver": "^1.0.2"
+  }
+}

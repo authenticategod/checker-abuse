@@ -1,0 +1,842 @@
+================================================================================
+  DEEP SCAN REPORT - CHECKER SITE LIST
+  Sites found with payment indicators from scan_results.json
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  STRIPE PK KEY SITES (13 sites with exposed pk_live keys)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ 9] https://zap-hosting.com/en/vps-hosting/
+     PK: pk_live_51C9rT6ICdL2Olgj5ksBBTT3uaowwqBkj4tZADDIhY
+     Flags: STRIPE_PK, STRIPE_EL, 3DS, STRIPE_JS
+
+[ 6] https://portal.chartvps.com/order.php?m=OneStepOrder&gid=vpsplus
+     PK: pk_live_CumexPm8VytoTYzvq2PooHnk006YjprRgo
+     Flags: STRIPE_PK, STRIPE_JS
+
+[ 6] https://blacklabel.hosting/product/managed-aws-linux-lightsail-vps-hosting/
+     PK: pk_live_51Aw5SRAAYSOCs0T8qQk6wWWuqF3x6HxCBbIfdePRV
+     Flags: STRIPE_PK, WOO, WP_AJAX
+
+[ 6] https://bryanheadrick.com/product/woocommerce-purchase-order-payment-gateway/
+     PK: pk_live_4TJTZdRLzRgSTxc81U0jJELe
+     Flags: STRIPE_PK, WOO, WP_AJAX
+
+[ 6] https://www.rockitcoin.com/buy-with-card/
+     PK: pk_live_waStCGhY5BARW6xazlY0vMZf62x7W96U
+     Flags: STRIPE_PK, WOO, WP_AJAX
+
+[ 6] https://whop.com/cloud-vps-cloud-hosting/
+     PK: pk_live_An9JqAUvxfDwIaRwDpuL9hVS
+     Flags: STRIPE_PK, STRIPE_EL, 3DS
+
+[ 5] https://wpdesk.net/products/active-payments-woocommerce/
+     PK: pk_live_5188G8DArlf1KxGorIEdtFTrjkfrEWenXCpROPgVYc
+     Flags: STRIPE_PK, WOO
+
+[ 4] https://www.revolutionrace.com/customer-service/payment-delivery
+     PK: pk_live_j8xvD1Cb360ETK9v4ydR55un
+     Flags: STRIPE_PK, 3DS
+
+[ 4] https://www.morningstar.com/stocks/shopify-after-big-rally-fade-is-stock-buy-or-sell
+     PK: pk_live_51KdL4bHHHT1qJ1rw8R4xv8wxRv4m1dLbQNschImeK
+     Flags: STRIPE_PK, 3DS
+
+[ 4] https://www.popularfintech.com/p/the-acquisitions-that-paypal-management
+     PK: pk_live_51IekcQKHPFAlBzyyGNBguT5BEI7NEBqrTxJhsYN1F
+     Flags: STRIPE_PK, BT_REF
+
+[ 4] https://realopen.com/
+     PK: pk_live_Y2xlcmsucmVhbG9wZW4uY29tJA
+     Flags: STRIPE_PK, 3DS
+
+[ 4] https://cash2bitcoin.com/buy-bitcoin-online/
+     PK: pk_live_Wc6PehvZgdSRFaLPBTTJmQH3gM2rr4sE
+     Flags: STRIPE_PK, WP_AJAX
+
+[ 4] https://shop.hersheys.com/
+     PK: pk_live_51Q4myzLXSMPrFU0zk452OTim0CjkkSQEzphLsRGy9
+     Flags: STRIPE_PK, 3DS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  WOOCOMMERCE STORES (106 sites)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ 7] https://rdpware.com/buy-usa-rdp/
+     PK: none  |  Flags: WPFORMS, WOO, STRIPE_EL, WP_AJAX
+
+[ 7] https://listingprowp.com/downloads/paystack/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO, WP_AJAX
+
+[ 7] https://wholesalesuiteplugin.com/woocommerce-wholesale-payments/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO, WP_AJAX
+
+[ 7] https://orionesolutions.com/klarna-business-model/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO, WP_AJAX
+
+[ 7] https://cryptoemporium.com/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO, WP_AJAX
+
+[ 7] https://thefinrate.com/mercadopago.com.ar/
+     PK: none  |  Flags: WPFORMS, WOO, BT_REF, 3DS, WP_AJAX
+
+[ 7] https://shiphype.com/3pl-for-stripe/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO, WP_AJAX
+
+[ 6] https://easydigitaldownloads.com/downloads/braintree-gateway/
+     PK: none  |  Flags: WPFORMS, WOO, BT_REF, WP_AJAX
+
+[ 6] https://funnelkit.com/woocommerce-google-pay/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO
+
+[ 6] https://liteserver.nl/
+     PK: none  |  Flags: WPFORMS, WOO, 3DS, WP_AJAX
+
+[ 6] https://blacklabel.hosting/product/managed-aws-linux-lightsail-vps-hosting/
+     PK: pk_live_51Aw5SRAAYSOCs0T8qQk6wWWuqF3x6HxCBbIfdePRV  |  Flags: STRIPE_PK, WOO, WP_AJAX
+
+[ 6] https://wp101.com/best-wordpress-payment-plugins/
+     PK: none  |  Flags: WPFORMS, WOO, 3DS, WP_AJAX
+
+[ 6] https://websavers.ca/canadian-vps-hosting
+     PK: none  |  Flags: WPFORMS, WOO, STRIPE_EL
+
+[ 6] https://smarthost.ie/vps/
+     PK: none  |  Flags: WPFORMS, WOO, 3DS, WP_AJAX
+
+[ 6] https://workdo.io/documents/2checkout-payment-gateway-in-bookinggo-saas/
+     PK: none  |  Flags: WPFORMS, WOO, BT_REF, WP_AJAX
+
+[ 6] https://bryanheadrick.com/product/woocommerce-purchase-order-payment-gateway/
+     PK: pk_live_4TJTZdRLzRgSTxc81U0jJELe  |  Flags: STRIPE_PK, WOO, WP_AJAX
+
+[ 6] https://paymentplugins.com/
+     PK: none  |  Flags: WPFORMS, WOO, BT_REF, WP_AJAX
+
+[ 6] https://my24hrshop.com/product/rdp-server/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO
+
+[ 6] https://themeraja.com/shop/learnpress-razorpay-payment-gpl/
+     PK: none  |  Flags: WOO, STRIPE_EL, 3DS, WP_AJAX
+
+[ 6] https://www.beld.com/
+     PK: none  |  Flags: WPFORMS, WOO, BT_REF, WP_AJAX
+
+[ 6] https://www.rockitcoin.com/buy-with-card/
+     PK: pk_live_waStCGhY5BARW6xazlY0vMZf62x7W96U  |  Flags: STRIPE_PK, WOO, WP_AJAX
+
+[ 5] https://tezrdp.com/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.digitaltransactions.net/affirm-partners-with-stripe-and-google-pay-zip-is-gamestops-exclusive-bnpl-provider/
+     PK: none  |  Flags: DATA_TOKEN, WOO, WP_AJAX
+
+[ 5] https://acowebs.com/woocommerce-deposits-partial-payments/
+     PK: none  |  Flags: DATA_TOKEN, WOO, WP_AJAX
+
+[ 5] https://globalfintechseries.com/finance/venmo-unleashes-next-phase-of-commerce-with-the-venmo-debit-card-and-venmo-checkout/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://wpbookster.com/best-deposits-partial-payments-plugins/
+     PK: none  |  Flags: WOO, STRIPE_EL, WP_AJAX
+
+[ 5] https://wpdesk.net/products/active-payments-woocommerce/
+     PK: pk_live_5188G8DArlf1KxGorIEdtFTrjkfrEWenXCpROPgVYc  |  Flags: STRIPE_PK, WOO
+
+[ 5] https://mukhost.com/vps-mexico/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://tosetec.com/przelewy24-w-sklepie-internetowym/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://leasepacket.com/buy-rdp/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.riverboundsports.com/paddleboards/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://rdpbuyindia.com/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://marketplace.webkul.com/wordpress-woocommerce-marketplace-split-order/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.expertadvisordownload.com/en/%E2%98%81%EF%B8%8F-vps-servers-for-algorithmic-trading-what-are-they-how-do-they-work-and-why-are-they-key-in-metatrader/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.aspgulf.com/managed-woocommerce-hosting-vps/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://polarityhosting.com/amazon-windows-vps/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.isitwp.com/hosting-reviews/woocommerce/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://quadlayers.com/woocommerce-checkout-plugins/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://themefic.com/custom-checkout-fields-2checkout-support/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://rdpaura.com/canada-rdp/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://gplfair.com/shop/woocommerce-new-zealand-post/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.doctorofcredit.com/paypal-checkout-5-back-on-walmart-best-buy/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://dropshiplaunchpad.com/shopify-payments-countries/
+     PK: none  |  Flags: WOO, STRIPE_EL, WP_AJAX
+
+[ 5] https://swedendedicated.com/
+     PK: none  |  Flags: WPFORMS, WOO, 3DS
+
+[ 5] https://chargebacks911.com/amazon-venmo-split/
+     PK: none  |  Flags: DATA_TOKEN, WOO, WP_AJAX
+
+[ 5] https://codeless.co/google-cloud-vps-pricing/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://blackprojectsup.com/shop/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://gitakart.in/what-is-razorpay-and-how-does-it-work/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://infinitydomainhosting.com/kb/amazon-web-services-vps/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://bebiggy.com/websites-for-sale/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://workandseo.com/business-for-sale/woocommerce-stores/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://ebizcharge.com/integrations/ecommerce/woocommerce/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.loja5.com.br/modulo-prestashop-pagamento-rede-api-cartao-credito-debito-pix-p559c269c281.html
+     PK: none  |  Flags: WPFORMS, WOO, 3DS
+
+[ 5] https://rocketfuel.inc/accepting-in-store-crypto-payments-with-pos-integration/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://todaytesting.com/thrivecart-pricing/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://n6cloud.com/vps-hosting/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://webyne.com/vps-server-india/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://webdedis.com/cheap-vps-hosting/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.truehost.cloud/vps-servers-in-nigeria/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 4] https://www.finalwebsites.nl/betaalmogelijkheden-webshops/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://alexhost.com/vps/windows-vps/windows-vps-remote-desktop/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://www.orderdesk.com/integrations/braintree/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://www.thesmbguide.com/braintree-payments-reviews
+     PK: none  |  Flags: WOO, BT_REF, 3DS
+
+[ 4] https://ppcmate.com/we-have-partnered-with-fastspring/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://www.merchantmaverick.com/what-is-woo-commerce-payments/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://www.novalnet.de/payment-lexikon/checkout
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://homefitness.be/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://smmhigh.com/product/buy-google-play-store-reviews/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://www.space-hosting.net/dedicated-servers/buy-server-with-crypto/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://vpsprofi.com/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://donweb.com/es-ve/hosting-cloud-servers-vps
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://flutterwave-website-v3-pilot.f4b-flutterwave.com/us
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://wpshout.com/best-woocommerce-hosting/
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://getfreerdpserver.com/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://storesautomation.com/what-is-shopify-payments/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://www.appypieautomate.ai/integrate/apps/etsy/integrations/venmo
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://coindoo.com/coinbase-business-account/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.daltonsbusiness.com/listing-businesses-for-sale-in-braintree/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://seahawkmedia.com/woocommerce/payment-gateways/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.webpopdesign.com/woocommerce-payment-plugins-uk/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://hostarmada.com/woocommerce-hosting/
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://opmc.co.nz/product/payment-express-dps-pxfusion-payment-gateway-for-woocommerce/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.misupportit.dk/en/vps-hosting/
+     PK: none  |  Flags: WOO, STRIPE_EL
+
+[ 4] https://ntup.net/vps-poland/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://braintreebd.com/online-shop/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://packpaddle.com/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://sociallysanne.nl/online-ondernemen/betaalpagina-online-producten/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.chequpi.com/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://shop.wanderlust-webdesign.com/shop/mercado-pago-marketplace-woocommerce/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://pvashopusa.com/product/buy-verified-venmo-accounts/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.apnnews.com/bluehost-partners-with-razorpay-to-expand-its-online-store-solution-with-integrated-payments-for-india/
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://nulledgpl.com/downloads/wordpress-plugins/wpsmartpay/paddle-checkout-for-woocommerce-nulled/
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://mulchandloam.com/braintree-ma/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://www.firstcashsolution.de/en/our-solutions/digital-payment/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.ewaycorp.com/things-to-know-about-bigcommerce-checkout/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://centraldovarejo.com.br/pix-parcelado-no-e-commerce-como-se-preparar-para-aceitar-a-forma-de-pagamento/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://bigcommerce.cedcommerce.com/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://tefway.com.br/pix/
+     PK: none  |  Flags: WOO, STRIPE_EL
+
+[ 4] https://sherocommerce.com/bigcommerce-pricing-guide/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://larryludwig.com/thrivecart-vs-samcart/
+     PK: none  |  Flags: WOO, BT_REF, 3DS
+
+[ 4] https://www.rebid.co/add-to-cart/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://shopassociation.org/membership/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.seoant.com/3-ways-to-add-an-add-to-cart-button-on-your-shopify-store/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://italymarketonline.com/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://swissmade.direct
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://rdpindonesia.com/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  BRAINTREE DEEP SCAN RESULTS (18 original scan sites + smart hunt)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  >> ORIGINAL 18 SCAN SITES: Deep-scanned checkout pages of all 18
+     RESULT: 17 out of 18 are BLOG/INFO pages that just mention "braintree"
+     Only startupdaily.net loads BT SDK (for PayPal Commerce, not standalone)
+     VERDICT: None of the original 18 are usable for Braintree checkers
+
+  >> EXISTING CHECKERS STATUS (from braintree_donation_checkers.py):
+     [DOWN] Earthjustice       - act.earthjustice.org (no BT token found)
+     [DOWN] Action Against Hunger - actionagainsthunger.org (no BT token found)
+     [DOWN] No Kid Hungry      - secure.nokidhungry.org (no BT token found)
+
+  >> SMART HUNT - NEW BUILDABLE BRAINTREE SITES:
+
+  [READY] ACLU (action.aclu.org)
+     Token: production_5vk7wvxb_y4td3k9mvg99sh6z
+     Flow: HOSTED_FIELDS (Springboard donation form)
+     Donate URL: https://action.aclu.org/give/now
+     CSRF: form_build_id
+     Amount Field: submitted[donation][recurs_monthly]
+
+  [READY] NRDC (action.nrdc.org)
+     Token: production_bnbsjhss_5cdj4j9qgxtdb8dn
+     Flow: HOSTED_FIELDS (Springboard donation form)
+     Donate URL: https://action.nrdc.org/donation/855-support-nrdc
+     CSRF: form_build_id
+     Amount Field: submitted[donation][amount]
+
+  [READY] ASPCA (secure.aspca.org)
+     Token: eyJ... (base64 client token)
+     Flow: HOSTED_FIELDS (Springboard donation form)
+     Donate URL: https://secure.aspca.org/donate/donate
+     CSRF: form_build_id
+     Amount Field: submitted[donation][amount]
+
+  [READY] IRC / Rescue.org (help.rescue.org)
+     Token: production_24xzyg4j_9vttp7j4nfw5cbry
+     Flow: HOSTED_FIELDS (Springboard donation form)
+     Donate URL: https://help.rescue.org/donate
+     CSRF: form_build_id
+     Amount Field: submitted[donation][amount]
+
+  [INVESTIGATE] St. Jude (stjude.org)
+     Token: production_x65hr26w_72mbcj3tbdx3sj28
+     Flow: UNKNOWN (custom React form)
+     Donate URL: https://www.stjude.org/donate/donate-to-st-jude.html
+     Uses BT JS SDK v3.111.0
+
+  [INVESTIGATE] Sierra Club (act.sierraclub.org)
+     Token: eyJ... (base64, Salesforce form)
+     Flow: UNKNOWN (Salesforce RC Connect)
+     Donate URL: https://act.sierraclub.org/donate/rc_connect__campaign_designform
+
+  [INVESTIGATE] Doctors Without Borders
+     Token: production_a_b (needs Playwright for full extraction)
+     Flow: UNKNOWN
+     Donate URL: https://www.doctorswithoutborders.org/donate
+
+  [INVESTIGATE] Kiva (kiva.org)
+     Token: production_x6dwd3k4_f5swrg87wym8bx37
+     Flow: UNKNOWN (React SPA)
+     Donate URL: https://www.kiva.org/donate
+
+  [INVESTIGATE] Cancer Research
+     Token: production_a_b (needs deeper extraction)
+     Flow: UNKNOWN
+
+  >> ORIGINAL 18 SITES (all just mention "braintree" in text, NO real BT payment):
+     [SKIP] startupdaily.net - news article, has BT SDK for PayPal only
+     [SKIP] thefinrate.com - financial info site
+     [SKIP] easydigitaldownloads.com - plugin marketplace page
+     [SKIP] workdo.io - SaaS documentation
+     [SKIP] paymentplugins.com - WP plugin site
+     [SKIP] beld.com - utility company
+     [SKIP] orderdesk.com - integration docs
+     [SKIP] thesmbguide.com - review site
+     [SKIP] merchantmaverick.com - review site
+     [SKIP] smmhigh.com - SMM store (WooCommerce, no BT gateway)
+     [SKIP] daltonsbusiness.com - business listing in Braintree town
+     [SKIP] braintreebd.com - Bangladesh store named "Braintree"
+     [SKIP] packpaddle.com - paddle shop (WooCommerce, no BT gateway)
+     [SKIP] mulchandloam.com - landscaping in Braintree, MA
+     [SKIP] popularfintech.com - fintech blog
+     [SKIP] ewaycorp.com - bigcommerce guide
+     [SKIP] sherocommerce.com - bigcommerce guide
+     [SKIP] larryludwig.com - review site
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  STRIPE JS CALL SITES (4 sites)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ 9] https://zap-hosting.com/en/vps-hosting/
+     PK: pk_live_51C9rT6ICdL2Olgj5ksBBTT3uaowwqBkj4tZADDIhY  |  Flags: STRIPE_PK, STRIPE_EL, 3DS, STRIPE_JS
+
+[ 8] https://www.startupdaily.net/topic/afterpay-partners-trademe-rollout-new-zealand/
+     PK: none  |  Flags: STRIPE_EL, BT_REF, 3DS, STRIPE_JS, WP_AJAX
+
+[ 6] https://portal.chartvps.com/order.php?m=OneStepOrder&gid=vpsplus
+     PK: pk_live_CumexPm8VytoTYzvq2PooHnk006YjprRgo  |  Flags: STRIPE_PK, STRIPE_JS
+
+[ 6] https://craftcms.com/knowledge-base/custom-stripe-commerce-checkout
+     PK: none  |  Flags: STRIPE_EL, 3DS, STRIPE_JS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ALL SCAN HITS (117 sites, sorted by score)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ 9] https://zap-hosting.com/en/vps-hosting/
+     PK: pk_live_51C9rT6ICdL2Olgj5ksBBTT3uaowwqBkj4tZADDIhY  |  Flags: STRIPE_PK, STRIPE_EL, 3DS, STRIPE_JS
+
+[ 8] https://www.startupdaily.net/topic/afterpay-partners-trademe-rollout-new-zealand/
+     PK: none  |  Flags: STRIPE_EL, BT_REF, 3DS, STRIPE_JS, WP_AJAX
+
+[ 7] https://rdpware.com/buy-usa-rdp/
+     PK: none  |  Flags: WPFORMS, WOO, STRIPE_EL, WP_AJAX
+
+[ 7] https://listingprowp.com/downloads/paystack/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO, WP_AJAX
+
+[ 7] https://wholesalesuiteplugin.com/woocommerce-wholesale-payments/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO, WP_AJAX
+
+[ 7] https://orionesolutions.com/klarna-business-model/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO, WP_AJAX
+
+[ 7] https://cryptoemporium.com/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO, WP_AJAX
+
+[ 7] https://thefinrate.com/mercadopago.com.ar/
+     PK: none  |  Flags: WPFORMS, WOO, BT_REF, 3DS, WP_AJAX
+
+[ 7] https://shiphype.com/3pl-for-stripe/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO, WP_AJAX
+
+[ 6] https://easydigitaldownloads.com/downloads/braintree-gateway/
+     PK: none  |  Flags: WPFORMS, WOO, BT_REF, WP_AJAX
+
+[ 6] https://funnelkit.com/woocommerce-google-pay/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO
+
+[ 6] https://portal.chartvps.com/order.php?m=OneStepOrder&gid=vpsplus
+     PK: pk_live_CumexPm8VytoTYzvq2PooHnk006YjprRgo  |  Flags: STRIPE_PK, STRIPE_JS
+
+[ 6] https://liteserver.nl/
+     PK: none  |  Flags: WPFORMS, WOO, 3DS, WP_AJAX
+
+[ 6] https://blacklabel.hosting/product/managed-aws-linux-lightsail-vps-hosting/
+     PK: pk_live_51Aw5SRAAYSOCs0T8qQk6wWWuqF3x6HxCBbIfdePRV  |  Flags: STRIPE_PK, WOO, WP_AJAX
+
+[ 6] https://wp101.com/best-wordpress-payment-plugins/
+     PK: none  |  Flags: WPFORMS, WOO, 3DS, WP_AJAX
+
+[ 6] https://craftcms.com/knowledge-base/custom-stripe-commerce-checkout
+     PK: none  |  Flags: STRIPE_EL, 3DS, STRIPE_JS
+
+[ 6] https://websavers.ca/canadian-vps-hosting
+     PK: none  |  Flags: WPFORMS, WOO, STRIPE_EL
+
+[ 6] https://smarthost.ie/vps/
+     PK: none  |  Flags: WPFORMS, WOO, 3DS, WP_AJAX
+
+[ 6] https://workdo.io/documents/2checkout-payment-gateway-in-bookinggo-saas/
+     PK: none  |  Flags: WPFORMS, WOO, BT_REF, WP_AJAX
+
+[ 6] https://bryanheadrick.com/product/woocommerce-purchase-order-payment-gateway/
+     PK: pk_live_4TJTZdRLzRgSTxc81U0jJELe  |  Flags: STRIPE_PK, WOO, WP_AJAX
+
+[ 6] https://paymentplugins.com/
+     PK: none  |  Flags: WPFORMS, WOO, BT_REF, WP_AJAX
+
+[ 6] https://my24hrshop.com/product/rdp-server/
+     PK: none  |  Flags: DATA_TOKEN, WPFORMS, WOO
+
+[ 6] https://themeraja.com/shop/learnpress-razorpay-payment-gpl/
+     PK: none  |  Flags: WOO, STRIPE_EL, 3DS, WP_AJAX
+
+[ 6] https://www.beld.com/
+     PK: none  |  Flags: WPFORMS, WOO, BT_REF, WP_AJAX
+
+[ 6] https://www.rockitcoin.com/buy-with-card/
+     PK: pk_live_waStCGhY5BARW6xazlY0vMZf62x7W96U  |  Flags: STRIPE_PK, WOO, WP_AJAX
+
+[ 6] https://whop.com/cloud-vps-cloud-hosting/
+     PK: pk_live_An9JqAUvxfDwIaRwDpuL9hVS  |  Flags: STRIPE_PK, STRIPE_EL, 3DS
+
+[ 5] https://tezrdp.com/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.digitaltransactions.net/affirm-partners-with-stripe-and-google-pay-zip-is-gamestops-exclusive-bnpl-provider/
+     PK: none  |  Flags: DATA_TOKEN, WOO, WP_AJAX
+
+[ 5] https://acowebs.com/woocommerce-deposits-partial-payments/
+     PK: none  |  Flags: DATA_TOKEN, WOO, WP_AJAX
+
+[ 5] https://globalfintechseries.com/finance/venmo-unleashes-next-phase-of-commerce-with-the-venmo-debit-card-and-venmo-checkout/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://wpbookster.com/best-deposits-partial-payments-plugins/
+     PK: none  |  Flags: WOO, STRIPE_EL, WP_AJAX
+
+[ 5] https://wpdesk.net/products/active-payments-woocommerce/
+     PK: pk_live_5188G8DArlf1KxGorIEdtFTrjkfrEWenXCpROPgVYc  |  Flags: STRIPE_PK, WOO
+
+[ 5] https://mukhost.com/vps-mexico/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://tosetec.com/przelewy24-w-sklepie-internetowym/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://leasepacket.com/buy-rdp/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.riverboundsports.com/paddleboards/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://rdpbuyindia.com/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://marketplace.webkul.com/wordpress-woocommerce-marketplace-split-order/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.expertadvisordownload.com/en/%E2%98%81%EF%B8%8F-vps-servers-for-algorithmic-trading-what-are-they-how-do-they-work-and-why-are-they-key-in-metatrader/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.aspgulf.com/managed-woocommerce-hosting-vps/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://polarityhosting.com/amazon-windows-vps/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.isitwp.com/hosting-reviews/woocommerce/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://quadlayers.com/woocommerce-checkout-plugins/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://themefic.com/custom-checkout-fields-2checkout-support/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://rdpaura.com/canada-rdp/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://gplfair.com/shop/woocommerce-new-zealand-post/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.doctorofcredit.com/paypal-checkout-5-back-on-walmart-best-buy/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://dropshiplaunchpad.com/shopify-payments-countries/
+     PK: none  |  Flags: WOO, STRIPE_EL, WP_AJAX
+
+[ 5] https://swedendedicated.com/
+     PK: none  |  Flags: WPFORMS, WOO, 3DS
+
+[ 5] https://chargebacks911.com/amazon-venmo-split/
+     PK: none  |  Flags: DATA_TOKEN, WOO, WP_AJAX
+
+[ 5] https://codeless.co/google-cloud-vps-pricing/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://blackprojectsup.com/shop/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://gitakart.in/what-is-razorpay-and-how-does-it-work/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://infinitydomainhosting.com/kb/amazon-web-services-vps/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://bebiggy.com/websites-for-sale/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://workandseo.com/business-for-sale/woocommerce-stores/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://ebizcharge.com/integrations/ecommerce/woocommerce/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.loja5.com.br/modulo-prestashop-pagamento-rede-api-cartao-credito-debito-pix-p559c269c281.html
+     PK: none  |  Flags: WPFORMS, WOO, 3DS
+
+[ 5] https://rocketfuel.inc/accepting-in-store-crypto-payments-with-pos-integration/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://todaytesting.com/thrivecart-pricing/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://n6cloud.com/vps-hosting/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://webyne.com/vps-server-india/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://webdedis.com/cheap-vps-hosting/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 5] https://www.truehost.cloud/vps-servers-in-nigeria/
+     PK: none  |  Flags: WPFORMS, WOO, WP_AJAX
+
+[ 4] https://www.finalwebsites.nl/betaalmogelijkheden-webshops/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://alexhost.com/vps/windows-vps/windows-vps-remote-desktop/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://www.orderdesk.com/integrations/braintree/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://www.thesmbguide.com/braintree-payments-reviews
+     PK: none  |  Flags: WOO, BT_REF, 3DS
+
+[ 4] https://ppcmate.com/we-have-partnered-with-fastspring/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://www.merchantmaverick.com/what-is-woo-commerce-payments/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://www.revolutionrace.com/customer-service/payment-delivery
+     PK: pk_live_j8xvD1Cb360ETK9v4ydR55un  |  Flags: STRIPE_PK, 3DS
+
+[ 4] https://www.novalnet.de/payment-lexikon/checkout
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://homefitness.be/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://smmhigh.com/product/buy-google-play-store-reviews/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://www.space-hosting.net/dedicated-servers/buy-server-with-crypto/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://vpsprofi.com/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://donweb.com/es-ve/hosting-cloud-servers-vps
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://flutterwave-website-v3-pilot.f4b-flutterwave.com/us
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://wpshout.com/best-woocommerce-hosting/
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://getfreerdpserver.com/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://storesautomation.com/what-is-shopify-payments/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://www.appypieautomate.ai/integrate/apps/etsy/integrations/venmo
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://coindoo.com/coinbase-business-account/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.daltonsbusiness.com/listing-businesses-for-sale-in-braintree/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://seahawkmedia.com/woocommerce/payment-gateways/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.webpopdesign.com/woocommerce-payment-plugins-uk/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://hostarmada.com/woocommerce-hosting/
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://opmc.co.nz/product/payment-express-dps-pxfusion-payment-gateway-for-woocommerce/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.misupportit.dk/en/vps-hosting/
+     PK: none  |  Flags: WOO, STRIPE_EL
+
+[ 4] https://ntup.net/vps-poland/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.morningstar.com/stocks/shopify-after-big-rally-fade-is-stock-buy-or-sell
+     PK: pk_live_51KdL4bHHHT1qJ1rw8R4xv8wxRv4m1dLbQNschImeK  |  Flags: STRIPE_PK, 3DS
+
+[ 4] https://braintreebd.com/online-shop/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://packpaddle.com/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://sociallysanne.nl/online-ondernemen/betaalpagina-online-producten/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.chequpi.com/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://shop.wanderlust-webdesign.com/shop/mercado-pago-marketplace-woocommerce/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://pvashopusa.com/product/buy-verified-venmo-accounts/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://www.apnnews.com/bluehost-partners-with-razorpay-to-expand-its-online-store-solution-with-integrated-payments-for-india/
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://nulledgpl.com/downloads/wordpress-plugins/wpsmartpay/paddle-checkout-for-woocommerce-nulled/
+     PK: none  |  Flags: DATA_TOKEN, WOO
+
+[ 4] https://mulchandloam.com/braintree-ma/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://www.popularfintech.com/p/the-acquisitions-that-paypal-management
+     PK: pk_live_51IekcQKHPFAlBzyyGNBguT5BEI7NEBqrTxJhsYN1F  |  Flags: STRIPE_PK, BT_REF
+
+[ 4] https://www.firstcashsolution.de/en/our-solutions/digital-payment/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://realopen.com/
+     PK: pk_live_Y2xlcmsucmVhbG9wZW4uY29tJA  |  Flags: STRIPE_PK, 3DS
+
+[ 4] https://www.ewaycorp.com/things-to-know-about-bigcommerce-checkout/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://centraldovarejo.com.br/pix-parcelado-no-e-commerce-como-se-preparar-para-aceitar-a-forma-de-pagamento/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://bigcommerce.cedcommerce.com/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://tefway.com.br/pix/
+     PK: none  |  Flags: WOO, STRIPE_EL
+
+[ 4] https://sherocommerce.com/bigcommerce-pricing-guide/
+     PK: none  |  Flags: WOO, BT_REF, WP_AJAX
+
+[ 4] https://cash2bitcoin.com/buy-bitcoin-online/
+     PK: pk_live_Wc6PehvZgdSRFaLPBTTJmQH3gM2rr4sE  |  Flags: STRIPE_PK, WP_AJAX
+
+[ 4] https://larryludwig.com/thrivecart-vs-samcart/
+     PK: none  |  Flags: WOO, BT_REF, 3DS
+
+[ 4] https://www.rebid.co/add-to-cart/
+     PK: none  |  Flags: WPFORMS, WOO
+
+[ 4] https://shopassociation.org/membership/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://shop.hersheys.com/
+     PK: pk_live_51Q4myzLXSMPrFU0zk452OTim0CjkkSQEzphLsRGy9  |  Flags: STRIPE_PK, 3DS
+
+[ 4] https://www.seoant.com/3-ways-to-add-an-add-to-cart-button-on-your-shopify-store/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://italymarketonline.com/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://swissmade.direct
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
+
+[ 4] https://rdpindonesia.com/
+     PK: none  |  Flags: WOO, 3DS, WP_AJAX
